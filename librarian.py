@@ -42,7 +42,7 @@ folder_dic = {
 }
 
 # any file or folder that should remain... also add new folders if added to above dictionary
-exceptions = ['Music','Videos','Torrents','Images','Documents','Compressed','Others','Folders','logs.txt','librarian.py'] # ,'VideoDownloader','Telegram Desktop','FireShot','Songs'
+exceptions = ['Music','Videos','Torrents','Images','Documents','Compressed','Others','Folders','logs.txt','librarian.py','VideoDownloader','Telegram Desktop','FireShot','Songs']
 
 # creating required folders and log file
 def init(path_str):
